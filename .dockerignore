@@ -1,0 +1,20 @@
+# Common
+**/node_modules
+**/dist
+**/.env
+**/*.log
+**/.git
+**/.gitignore
+**/README.md
+
+# Backend specific
+backend/coverage
+backend/test
+backend/npm-debug.log
+
+# Frontend specific
+frontend/coverage
+frontend/.vscode
+frontend/.idea
+frontend/npm-debug.log
+frontend/build
